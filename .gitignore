@@ -1,0 +1,25 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+*.db
+
+# Runtime data
+backend/uploads/*
+backend/reports/generated/*
+!backend/uploads/.gitkeep
+!backend/reports/generated/.gitkeep
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+*.env
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db

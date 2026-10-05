@@ -1,0 +1,9 @@
+from pathlib import Path
+from datetime import datetime
+
+
+def write_html_report(path: Path, dataset: dict, analysis: dict, summary: dict) -> None:
+    significant = [result["feature"] for result in analysis["results"] if result["significant"]]
+    rows = "".join(f"<tr><td>{r['feature']}</td><td>{r['chi_square']:.3f}</td><td>{r['p_value']:.5f}</td><td>{r['degrees_of_freedom']}</td><td>{'Significant' if r['significant'] else 'Not significant'}</td></tr>" for r in analysis["results"])
+    html = f"""<!doctype html><html><head><meta charset='utf-8'><title>Healthcare Claims Statistical Report</title><style>body{{font-family:Arial;color:#172b4d;max-width:960px;margin:40px auto;line-height:1.5}}table{{border-collapse:collapse;width:100%}}th,td{{border:1px solid #d9e2ec;padding:8px;text-align:left}}th{{background:#e8f3f4}}.note{{background:#fff7e6;padding:14px;border-left:4px solid #e2a336}}</style></head><body><h1>Healthcare Claims Analytics</h1><p>Generated {datetime.now().isoformat(timespec='seconds')}</p><h2>Dataset Summary</h2><p>File: {dataset['filename']} | Rows: {dataset['rows']} | Columns: {dataset['columns']}</p><p>Target: {analysis['target_column']} | Significance level: {analysis['significance_level']}</p><h2>Claim Outcome Summary</h2><p>Total claims: {summary['total_claims']} | Approved: {summary['approved_claims']} | Denied: {summary['denied_claims']}</p><h2>Chi-Square Results</h2><p>Significant features: {', '.join(significant) or 'None'}</p><table><tr><th>Feature</th><th>Chi-square</th><th>p-value</th><th>df</th><th>Decision</th></tr>{rows}</table><h2>Statistical Interpretation</h2><div class='note'>Statistical association does not imply causation. These results describe relationships in the uploaded dataset and are not medical advice.</div></body></html>"""
+    path.write_text(html, encoding="utf-8")

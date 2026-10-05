@@ -1,0 +1,601 @@
+Claim_ID,Insurance_Type,Procedure_Category,Diagnosis_Category,Prior_Authorization,Provider_Type,Place_of_Service,Submission_Method,Claim_Type,Network_Status,Referral_Required,Claim_Status,Claim_Amount
+CLM-00001,Employer Sponsored,Imaging,Cardiology,No,Hospital,Inpatient,Electronic,Professional,In-Network,No,Denied,633.72
+CLM-00002,Private,Surgery,General,Yes,Specialist Center,Inpatient,Paper,Professional,Out-of-Network,No,Denied,14058.44
+CLM-00003,Private,Therapy,Neurology,No,Clinic,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,1866.03
+CLM-00004,Government,Emergency,Respiratory,Yes,Specialist Center,Outpatient,Electronic,Institutional,In-Network,No,Approved,16390.59
+CLM-00005,Government,Emergency,Orthopedic,Yes,Hospital,Emergency,Electronic,Institutional,In-Network,Yes,Approved,7085.02
+CLM-00006,Government,Therapy,Respiratory,Yes,Clinic,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,13511.87
+CLM-00007,Private,Consultation,Neurology,No,Specialist Center,Emergency,Electronic,Institutional,In-Network,Yes,Denied,14909.92
+CLM-00008,Government,Laboratory,Cardiology,Yes,Specialist Center,Emergency,Paper,Professional,Out-of-Network,No,Approved,2715.98
+CLM-00009,Private,Surgery,Gastroenterology,No,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,9467.93
+CLM-00010,Private,Imaging,Cardiology,Yes,Specialist Center,Inpatient,Paper,Professional,Out-of-Network,No,Approved,18428.58
+CLM-00011,Employer Sponsored,Laboratory,General,Yes,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,Yes,Approved,8091.2
+CLM-00012,Government,Imaging,Gastroenterology,No,Specialist Center,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,14126.64
+CLM-00013,Employer Sponsored,Emergency,Cardiology,No,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,4520.65
+CLM-00014,Employer Sponsored,Imaging,Cardiology,No,Hospital,Emergency,Electronic,Professional,Out-of-Network,Yes,Denied,9802.11
+CLM-00015,Employer Sponsored,Consultation,Orthopedic,Yes,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,No,Denied,4650.18
+CLM-00016,Private,Laboratory,Cardiology,Yes,Specialist Center,Inpatient,Electronic,Professional,In-Network,Yes,Approved,16758.31
+CLM-00017,Government,Imaging,General,Yes,Clinic,Emergency,Paper,Professional,In-Network,No,Approved,14533.77
+CLM-00018,Government,Surgery,Cardiology,Yes,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,No,Denied,12485.01
+CLM-00019,Employer Sponsored,Imaging,Cardiology,No,Specialist Center,Outpatient,Electronic,Professional,In-Network,Yes,Approved,8346.22
+CLM-00020,Government,Surgery,Respiratory,No,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Denied,17144.05
+CLM-00021,Private,Surgery,Neurology,No,Clinic,Inpatient,Paper,Professional,In-Network,No,Denied,18229.46
+CLM-00022,Government,Consultation,Respiratory,No,Specialist Center,Emergency,Paper,Professional,In-Network,No,Denied,17923.78
+CLM-00023,Employer Sponsored,Therapy,General,Yes,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,Yes,Denied,17777.74
+CLM-00024,Private,Surgery,Cardiology,Yes,Specialist Center,Inpatient,Paper,Professional,In-Network,Yes,Approved,1594.72
+CLM-00025,Employer Sponsored,Emergency,General,No,Clinic,Inpatient,Paper,Professional,Out-of-Network,No,Denied,12454.18
+CLM-00026,Government,Consultation,Respiratory,Yes,Hospital,Outpatient,Electronic,Professional,In-Network,No,Approved,17270.97
+CLM-00027,Private,Surgery,Respiratory,No,Hospital,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,4955.14
+CLM-00028,Private,Therapy,General,Yes,Clinic,Outpatient,Electronic,Institutional,In-Network,No,Approved,9081.31
+CLM-00029,Private,Imaging,Gastroenterology,No,Clinic,Inpatient,Electronic,Institutional,In-Network,No,Denied,13734.77
+CLM-00030,Employer Sponsored,Therapy,Neurology,Yes,Hospital,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,2431.91
+CLM-00031,Government,Laboratory,Cardiology,No,Hospital,Emergency,Electronic,Professional,Out-of-Network,No,Approved,13886.63
+CLM-00032,Private,Surgery,Orthopedic,No,Hospital,Inpatient,Paper,Institutional,In-Network,No,Denied,14584.5
+CLM-00033,Private,Consultation,Cardiology,No,Hospital,Inpatient,Paper,Institutional,Out-of-Network,Yes,Denied,520.78
+CLM-00034,Private,Consultation,Respiratory,No,Hospital,Outpatient,Paper,Institutional,Out-of-Network,Yes,Denied,16235.66
+CLM-00035,Government,Surgery,General,No,Hospital,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,18209.7
+CLM-00036,Private,Consultation,General,Yes,Clinic,Inpatient,Paper,Professional,In-Network,No,Approved,1373.57
+CLM-00037,Employer Sponsored,Laboratory,General,No,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,No,Denied,12924.09
+CLM-00038,Employer Sponsored,Surgery,Orthopedic,No,Specialist Center,Outpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,5368.52
+CLM-00039,Government,Emergency,General,No,Clinic,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,5310.93
+CLM-00040,Employer Sponsored,Therapy,General,No,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Denied,936.03
+CLM-00041,Government,Emergency,Cardiology,No,Clinic,Emergency,Electronic,Institutional,Out-of-Network,No,Denied,2802.53
+CLM-00042,Employer Sponsored,Imaging,Cardiology,No,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Approved,2540.44
+CLM-00043,Government,Therapy,General,No,Clinic,Emergency,Paper,Institutional,In-Network,No,Approved,4858.01
+CLM-00044,Private,Therapy,Respiratory,No,Specialist Center,Inpatient,Paper,Institutional,In-Network,No,Denied,5088.63
+CLM-00045,Government,Emergency,Cardiology,Yes,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Approved,7590.94
+CLM-00046,Employer Sponsored,Consultation,Neurology,Yes,Hospital,Outpatient,Paper,Professional,Out-of-Network,No,Denied,17445.59
+CLM-00047,Government,Consultation,Neurology,Yes,Clinic,Inpatient,Paper,Institutional,Out-of-Network,Yes,Approved,6274.83
+CLM-00048,Employer Sponsored,Consultation,Gastroenterology,Yes,Clinic,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,2583.91
+CLM-00049,Government,Surgery,Cardiology,No,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,No,Denied,5209.1
+CLM-00050,Government,Laboratory,Cardiology,No,Hospital,Emergency,Electronic,Institutional,In-Network,Yes,Denied,13974.2
+CLM-00051,Private,Surgery,Cardiology,Yes,Hospital,Inpatient,Paper,Professional,In-Network,No,Approved,14207.43
+CLM-00052,Private,Emergency,General,Yes,Hospital,Outpatient,Electronic,Professional,Out-of-Network,No,Approved,17422.18
+CLM-00053,Private,Imaging,General,Yes,Hospital,Emergency,Paper,Professional,In-Network,No,Approved,7973.58
+CLM-00054,Government,Imaging,General,No,Hospital,Outpatient,Paper,Professional,Out-of-Network,No,Denied,13110.09
+CLM-00055,Government,Surgery,Gastroenterology,No,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,No,Denied,15769.3
+CLM-00056,Private,Laboratory,Neurology,Yes,Clinic,Emergency,Paper,Institutional,In-Network,No,Approved,3433.58
+CLM-00057,Private,Laboratory,Respiratory,No,Clinic,Emergency,Paper,Professional,In-Network,Yes,Denied,13345.17
+CLM-00058,Government,Emergency,Orthopedic,No,Specialist Center,Emergency,Paper,Institutional,In-Network,Yes,Denied,4165.7
+CLM-00059,Employer Sponsored,Surgery,Respiratory,No,Clinic,Emergency,Paper,Institutional,Out-of-Network,No,Denied,5073.93
+CLM-00060,Government,Surgery,Cardiology,Yes,Clinic,Inpatient,Electronic,Professional,In-Network,No,Approved,13428.23
+CLM-00061,Employer Sponsored,Emergency,Respiratory,Yes,Hospital,Outpatient,Electronic,Institutional,In-Network,No,Approved,13123.16
+CLM-00062,Private,Laboratory,Cardiology,Yes,Specialist Center,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,5321.11
+CLM-00063,Government,Consultation,Respiratory,Yes,Hospital,Outpatient,Paper,Professional,In-Network,No,Approved,1449.22
+CLM-00064,Employer Sponsored,Therapy,Cardiology,Yes,Hospital,Emergency,Paper,Professional,In-Network,Yes,Approved,14162.23
+CLM-00065,Employer Sponsored,Emergency,General,Yes,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,No,Approved,10556.31
+CLM-00066,Private,Emergency,Gastroenterology,Yes,Hospital,Emergency,Electronic,Institutional,In-Network,Yes,Approved,3285.78
+CLM-00067,Private,Surgery,Cardiology,No,Clinic,Emergency,Paper,Institutional,In-Network,Yes,Denied,13103.59
+CLM-00068,Employer Sponsored,Consultation,Cardiology,Yes,Clinic,Emergency,Electronic,Institutional,In-Network,Yes,Approved,16813.4
+CLM-00069,Private,Imaging,Cardiology,Yes,Clinic,Emergency,Paper,Institutional,In-Network,No,Approved,12970.6
+CLM-00070,Government,Emergency,General,No,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,No,Denied,1766.78
+CLM-00071,Employer Sponsored,Emergency,General,Yes,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,No,Approved,3427.12
+CLM-00072,Employer Sponsored,Consultation,Gastroenterology,No,Hospital,Outpatient,Paper,Institutional,Out-of-Network,No,Denied,15880.15
+CLM-00073,Government,Consultation,Gastroenterology,No,Clinic,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,4732.92
+CLM-00074,Private,Consultation,General,Yes,Specialist Center,Emergency,Paper,Institutional,In-Network,Yes,Approved,6747.17
+CLM-00075,Government,Therapy,Neurology,Yes,Hospital,Outpatient,Electronic,Institutional,Out-of-Network,No,Approved,616.63
+CLM-00076,Employer Sponsored,Emergency,Orthopedic,Yes,Clinic,Emergency,Electronic,Institutional,In-Network,Yes,Approved,8582.56
+CLM-00077,Private,Therapy,Orthopedic,No,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,No,Denied,8496.72
+CLM-00078,Private,Consultation,Orthopedic,Yes,Hospital,Outpatient,Paper,Institutional,Out-of-Network,Yes,Approved,13455.23
+CLM-00079,Employer Sponsored,Emergency,Gastroenterology,No,Hospital,Outpatient,Paper,Institutional,Out-of-Network,No,Denied,17263.47
+CLM-00080,Private,Therapy,Orthopedic,No,Hospital,Outpatient,Electronic,Institutional,Out-of-Network,No,Approved,18286.64
+CLM-00081,Employer Sponsored,Surgery,Neurology,Yes,Hospital,Emergency,Paper,Professional,Out-of-Network,Yes,Approved,16850.78
+CLM-00082,Private,Therapy,Orthopedic,No,Specialist Center,Inpatient,Electronic,Institutional,Out-of-Network,No,Approved,12841.16
+CLM-00083,Employer Sponsored,Imaging,Respiratory,No,Clinic,Emergency,Paper,Professional,In-Network,Yes,Denied,18452.6
+CLM-00084,Employer Sponsored,Imaging,Neurology,Yes,Specialist Center,Emergency,Electronic,Institutional,In-Network,No,Approved,931.92
+CLM-00085,Private,Laboratory,Respiratory,No,Clinic,Inpatient,Electronic,Institutional,In-Network,Yes,Denied,1539.2
+CLM-00086,Government,Emergency,Gastroenterology,Yes,Clinic,Emergency,Electronic,Professional,Out-of-Network,No,Approved,4786.84
+CLM-00087,Private,Consultation,Respiratory,Yes,Hospital,Outpatient,Paper,Institutional,Out-of-Network,No,Approved,15651.27
+CLM-00088,Private,Consultation,Neurology,Yes,Hospital,Outpatient,Paper,Institutional,Out-of-Network,Yes,Approved,5139.56
+CLM-00089,Employer Sponsored,Therapy,Gastroenterology,Yes,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Approved,11808.32
+CLM-00090,Employer Sponsored,Laboratory,Gastroenterology,Yes,Specialist Center,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Approved,6803.92
+CLM-00091,Private,Imaging,Respiratory,No,Specialist Center,Outpatient,Electronic,Professional,In-Network,No,Approved,9325.55
+CLM-00092,Government,Surgery,Respiratory,No,Clinic,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,13972.7
+CLM-00093,Private,Therapy,Gastroenterology,No,Specialist Center,Outpatient,Electronic,Institutional,In-Network,No,Approved,2360.89
+CLM-00094,Government,Therapy,Gastroenterology,No,Specialist Center,Outpatient,Paper,Professional,In-Network,No,Denied,11493.96
+CLM-00095,Employer Sponsored,Laboratory,General,Yes,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,Yes,Denied,920.06
+CLM-00096,Private,Laboratory,Neurology,Yes,Hospital,Inpatient,Electronic,Institutional,Out-of-Network,No,Approved,7803.22
+CLM-00097,Employer Sponsored,Therapy,Orthopedic,No,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,Yes,Denied,4086.02
+CLM-00098,Government,Surgery,Respiratory,Yes,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,No,Denied,17914.53
+CLM-00099,Government,Imaging,Gastroenterology,Yes,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,Yes,Approved,14577.2
+CLM-00100,Private,Imaging,General,Yes,Specialist Center,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,15892.55
+CLM-00101,Private,Surgery,General,No,Hospital,Inpatient,Electronic,Professional,In-Network,No,Approved,10928.73
+CLM-00102,Private,Surgery,Respiratory,Yes,Hospital,Emergency,Paper,Professional,In-Network,No,Approved,14412.18
+CLM-00103,Employer Sponsored,Emergency,Cardiology,No,Specialist Center,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,18473.98
+CLM-00104,Government,Consultation,Gastroenterology,Yes,Clinic,Emergency,Paper,Professional,In-Network,No,Approved,2816.57
+CLM-00105,Private,Laboratory,General,No,Clinic,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,15789.18
+CLM-00106,Employer Sponsored,Emergency,Gastroenterology,Yes,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,No,Approved,7745.45
+CLM-00107,Private,Laboratory,Neurology,No,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,15402.08
+CLM-00108,Private,Consultation,Cardiology,No,Hospital,Emergency,Electronic,Institutional,In-Network,No,Approved,16172.48
+CLM-00109,Government,Therapy,Cardiology,No,Specialist Center,Outpatient,Paper,Professional,In-Network,Yes,Approved,4214.47
+CLM-00110,Private,Laboratory,General,No,Hospital,Outpatient,Electronic,Institutional,In-Network,No,Denied,3407.36
+CLM-00111,Employer Sponsored,Laboratory,Respiratory,No,Hospital,Inpatient,Electronic,Institutional,In-Network,Yes,Denied,1774.72
+CLM-00112,Employer Sponsored,Surgery,Neurology,No,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,No,Approved,11064.46
+CLM-00113,Private,Surgery,Orthopedic,Yes,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,8225.24
+CLM-00114,Government,Surgery,General,Yes,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,No,Denied,4145.85
+CLM-00115,Employer Sponsored,Imaging,Cardiology,Yes,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,No,Denied,227.35
+CLM-00116,Employer Sponsored,Consultation,Orthopedic,Yes,Clinic,Emergency,Electronic,Institutional,In-Network,No,Approved,8117.98
+CLM-00117,Government,Imaging,Respiratory,No,Specialist Center,Outpatient,Paper,Institutional,In-Network,No,Denied,17877.57
+CLM-00118,Private,Emergency,Neurology,No,Hospital,Outpatient,Electronic,Professional,Out-of-Network,No,Approved,1533.29
+CLM-00119,Government,Therapy,Respiratory,Yes,Clinic,Inpatient,Electronic,Professional,In-Network,No,Approved,13479.69
+CLM-00120,Employer Sponsored,Surgery,Orthopedic,Yes,Hospital,Outpatient,Electronic,Professional,In-Network,Yes,Approved,17603.04
+CLM-00121,Employer Sponsored,Consultation,Neurology,No,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Denied,8720.18
+CLM-00122,Employer Sponsored,Laboratory,Respiratory,Yes,Clinic,Emergency,Electronic,Institutional,Out-of-Network,No,Denied,1132.63
+CLM-00123,Government,Imaging,Gastroenterology,Yes,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Approved,12088.59
+CLM-00124,Government,Emergency,Neurology,Yes,Hospital,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,4647.2
+CLM-00125,Government,Consultation,General,Yes,Clinic,Outpatient,Paper,Institutional,Out-of-Network,No,Approved,1049.31
+CLM-00126,Employer Sponsored,Therapy,Respiratory,Yes,Clinic,Inpatient,Paper,Institutional,Out-of-Network,Yes,Approved,1585.86
+CLM-00127,Employer Sponsored,Surgery,Respiratory,No,Specialist Center,Emergency,Paper,Professional,In-Network,No,Approved,7021.55
+CLM-00128,Government,Surgery,Gastroenterology,Yes,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Approved,3404.54
+CLM-00129,Private,Laboratory,Neurology,Yes,Hospital,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,14280.66
+CLM-00130,Employer Sponsored,Emergency,Cardiology,No,Specialist Center,Inpatient,Paper,Professional,In-Network,Yes,Approved,14983.54
+CLM-00131,Private,Therapy,Neurology,Yes,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,No,Approved,9918.82
+CLM-00132,Government,Consultation,Orthopedic,No,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,No,Denied,9798.17
+CLM-00133,Private,Surgery,General,Yes,Clinic,Inpatient,Paper,Institutional,In-Network,Yes,Approved,1629.56
+CLM-00134,Private,Laboratory,Neurology,Yes,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Approved,1065.73
+CLM-00135,Employer Sponsored,Laboratory,Orthopedic,No,Hospital,Outpatient,Electronic,Professional,Out-of-Network,Yes,Denied,14658.27
+CLM-00136,Private,Imaging,Respiratory,No,Specialist Center,Inpatient,Paper,Institutional,In-Network,Yes,Denied,4797.84
+CLM-00137,Private,Emergency,Gastroenterology,No,Hospital,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,7816.09
+CLM-00138,Employer Sponsored,Consultation,Cardiology,Yes,Clinic,Emergency,Electronic,Professional,In-Network,No,Approved,113.81
+CLM-00139,Government,Surgery,General,No,Hospital,Emergency,Electronic,Institutional,In-Network,Yes,Approved,16167.4
+CLM-00140,Private,Therapy,Neurology,No,Clinic,Emergency,Electronic,Institutional,In-Network,No,Denied,13582.11
+CLM-00141,Employer Sponsored,Imaging,General,No,Hospital,Inpatient,Paper,Institutional,In-Network,No,Approved,11718.42
+CLM-00142,Private,Imaging,Gastroenterology,No,Hospital,Outpatient,Electronic,Professional,In-Network,Yes,Approved,17273.03
+CLM-00143,Employer Sponsored,Consultation,General,No,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,5116.28
+CLM-00144,Government,Consultation,Neurology,No,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,No,Approved,4996.66
+CLM-00145,Private,Therapy,Neurology,Yes,Clinic,Emergency,Electronic,Institutional,Out-of-Network,Yes,Denied,6123.65
+CLM-00146,Government,Laboratory,Neurology,No,Hospital,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,11407.49
+CLM-00147,Government,Laboratory,Gastroenterology,Yes,Hospital,Emergency,Paper,Institutional,In-Network,Yes,Approved,15713.25
+CLM-00148,Employer Sponsored,Consultation,Cardiology,Yes,Hospital,Inpatient,Paper,Institutional,Out-of-Network,Yes,Approved,2910.56
+CLM-00149,Government,Laboratory,Respiratory,No,Hospital,Emergency,Electronic,Institutional,Out-of-Network,No,Denied,4681.6
+CLM-00150,Private,Imaging,Gastroenterology,Yes,Clinic,Emergency,Paper,Professional,Out-of-Network,No,Approved,4036.31
+CLM-00151,Employer Sponsored,Laboratory,Gastroenterology,No,Hospital,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,18449.59
+CLM-00152,Employer Sponsored,Laboratory,Gastroenterology,No,Specialist Center,Inpatient,Paper,Institutional,In-Network,Yes,Denied,9453.74
+CLM-00153,Private,Surgery,Orthopedic,Yes,Clinic,Inpatient,Paper,Institutional,Out-of-Network,Yes,Approved,16368.4
+CLM-00154,Private,Laboratory,Neurology,No,Specialist Center,Outpatient,Paper,Professional,In-Network,No,Denied,8371.28
+CLM-00155,Employer Sponsored,Emergency,Respiratory,Yes,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,Yes,Denied,9625.85
+CLM-00156,Government,Surgery,Orthopedic,No,Specialist Center,Inpatient,Paper,Institutional,In-Network,No,Denied,11779.58
+CLM-00157,Employer Sponsored,Laboratory,Orthopedic,No,Specialist Center,Emergency,Electronic,Professional,In-Network,Yes,Approved,13355.45
+CLM-00158,Employer Sponsored,Laboratory,General,Yes,Hospital,Inpatient,Electronic,Institutional,In-Network,No,Approved,11852.02
+CLM-00159,Government,Therapy,General,No,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,No,Denied,1428.8
+CLM-00160,Private,Surgery,Neurology,No,Clinic,Outpatient,Electronic,Institutional,In-Network,No,Approved,13605.29
+CLM-00161,Government,Consultation,Orthopedic,No,Specialist Center,Emergency,Electronic,Institutional,In-Network,No,Denied,5010.49
+CLM-00162,Private,Surgery,Cardiology,Yes,Clinic,Outpatient,Paper,Professional,In-Network,No,Approved,13364.58
+CLM-00163,Private,Surgery,Neurology,No,Clinic,Outpatient,Paper,Professional,In-Network,No,Approved,8504.9
+CLM-00164,Private,Surgery,General,No,Hospital,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,235.59
+CLM-00165,Private,Consultation,Orthopedic,No,Specialist Center,Outpatient,Paper,Institutional,In-Network,No,Denied,10586.74
+CLM-00166,Private,Laboratory,General,No,Hospital,Outpatient,Paper,Institutional,In-Network,Yes,Denied,7338.74
+CLM-00167,Government,Emergency,Respiratory,Yes,Hospital,Emergency,Paper,Professional,In-Network,Yes,Approved,13225.79
+CLM-00168,Government,Emergency,Neurology,Yes,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,Yes,Approved,18327.19
+CLM-00169,Employer Sponsored,Laboratory,General,No,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,6184.78
+CLM-00170,Private,Consultation,General,No,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,Yes,Denied,10830.58
+CLM-00171,Private,Emergency,Gastroenterology,No,Hospital,Emergency,Electronic,Professional,In-Network,Yes,Denied,8206.73
+CLM-00172,Government,Surgery,Neurology,Yes,Clinic,Emergency,Paper,Professional,In-Network,Yes,Approved,6070.79
+CLM-00173,Employer Sponsored,Consultation,General,No,Clinic,Inpatient,Paper,Institutional,Out-of-Network,No,Denied,9001.18
+CLM-00174,Private,Laboratory,General,No,Hospital,Outpatient,Paper,Professional,Out-of-Network,No,Denied,6508.21
+CLM-00175,Employer Sponsored,Laboratory,Respiratory,Yes,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,Yes,Approved,859.65
+CLM-00176,Employer Sponsored,Imaging,Respiratory,No,Specialist Center,Outpatient,Paper,Professional,In-Network,No,Approved,12904.99
+CLM-00177,Private,Imaging,General,Yes,Hospital,Inpatient,Electronic,Professional,In-Network,Yes,Approved,6167.36
+CLM-00178,Government,Imaging,Gastroenterology,Yes,Hospital,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,14005.1
+CLM-00179,Government,Laboratory,Respiratory,Yes,Hospital,Emergency,Electronic,Professional,In-Network,No,Approved,17283.18
+CLM-00180,Private,Consultation,Neurology,Yes,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,Yes,Approved,5325.2
+CLM-00181,Employer Sponsored,Emergency,General,No,Hospital,Emergency,Paper,Institutional,In-Network,Yes,Approved,3077.33
+CLM-00182,Government,Therapy,Respiratory,Yes,Hospital,Emergency,Paper,Institutional,In-Network,Yes,Approved,15850.94
+CLM-00183,Government,Consultation,General,No,Hospital,Outpatient,Electronic,Professional,In-Network,No,Approved,17318.22
+CLM-00184,Private,Laboratory,Neurology,Yes,Clinic,Outpatient,Paper,Institutional,In-Network,No,Approved,12842.33
+CLM-00185,Private,Therapy,Cardiology,No,Clinic,Inpatient,Paper,Institutional,In-Network,No,Denied,11403.33
+CLM-00186,Private,Surgery,Neurology,Yes,Clinic,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,12613.5
+CLM-00187,Employer Sponsored,Imaging,General,No,Specialist Center,Emergency,Paper,Professional,In-Network,Yes,Approved,16711.69
+CLM-00188,Private,Emergency,General,Yes,Hospital,Outpatient,Paper,Professional,In-Network,No,Approved,16638.05
+CLM-00189,Government,Imaging,Neurology,Yes,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,No,Denied,7376.4
+CLM-00190,Private,Therapy,Orthopedic,Yes,Hospital,Outpatient,Paper,Professional,In-Network,Yes,Approved,669.4
+CLM-00191,Government,Surgery,Orthopedic,No,Clinic,Outpatient,Paper,Institutional,Out-of-Network,Yes,Denied,2534.01
+CLM-00192,Government,Imaging,Orthopedic,No,Specialist Center,Inpatient,Electronic,Professional,In-Network,No,Approved,12487.5
+CLM-00193,Employer Sponsored,Consultation,General,No,Hospital,Inpatient,Paper,Institutional,In-Network,No,Denied,17347.41
+CLM-00194,Employer Sponsored,Imaging,Cardiology,No,Specialist Center,Inpatient,Electronic,Professional,In-Network,Yes,Approved,703.31
+CLM-00195,Employer Sponsored,Therapy,Gastroenterology,Yes,Hospital,Emergency,Electronic,Institutional,Out-of-Network,Yes,Approved,4086.01
+CLM-00196,Private,Surgery,General,No,Hospital,Emergency,Paper,Institutional,In-Network,No,Denied,18236.58
+CLM-00197,Employer Sponsored,Surgery,Neurology,No,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,17424.31
+CLM-00198,Employer Sponsored,Consultation,General,No,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,No,Denied,13977.57
+CLM-00199,Government,Surgery,Orthopedic,No,Specialist Center,Inpatient,Paper,Professional,Out-of-Network,No,Denied,9844.8
+CLM-00200,Government,Surgery,Respiratory,Yes,Clinic,Emergency,Electronic,Institutional,Out-of-Network,Yes,Approved,13428.23
+CLM-00201,Private,Imaging,Respiratory,No,Specialist Center,Emergency,Electronic,Professional,In-Network,Yes,Approved,3931.69
+CLM-00202,Government,Laboratory,Cardiology,Yes,Hospital,Emergency,Electronic,Institutional,In-Network,Yes,Approved,16937.05
+CLM-00203,Employer Sponsored,Laboratory,Respiratory,No,Clinic,Emergency,Paper,Institutional,Out-of-Network,No,Denied,16341.98
+CLM-00204,Government,Imaging,Gastroenterology,No,Clinic,Inpatient,Paper,Institutional,Out-of-Network,Yes,Denied,15997.12
+CLM-00205,Employer Sponsored,Surgery,Cardiology,No,Specialist Center,Emergency,Paper,Institutional,In-Network,Yes,Denied,4320.79
+CLM-00206,Employer Sponsored,Surgery,Neurology,No,Clinic,Outpatient,Paper,Institutional,In-Network,No,Denied,2662.34
+CLM-00207,Employer Sponsored,Consultation,Orthopedic,Yes,Specialist Center,Inpatient,Electronic,Professional,In-Network,No,Approved,15600.46
+CLM-00208,Private,Imaging,Gastroenterology,Yes,Hospital,Inpatient,Paper,Institutional,In-Network,No,Approved,374.7
+CLM-00209,Employer Sponsored,Emergency,Neurology,Yes,Hospital,Emergency,Paper,Institutional,In-Network,No,Approved,2055.71
+CLM-00210,Private,Emergency,Orthopedic,Yes,Hospital,Emergency,Paper,Institutional,Out-of-Network,No,Denied,6954.74
+CLM-00211,Government,Consultation,General,Yes,Specialist Center,Inpatient,Paper,Professional,In-Network,Yes,Approved,7069.15
+CLM-00212,Employer Sponsored,Consultation,Cardiology,Yes,Specialist Center,Inpatient,Electronic,Institutional,Out-of-Network,No,Approved,18082.52
+CLM-00213,Private,Emergency,Cardiology,Yes,Hospital,Emergency,Paper,Institutional,In-Network,Yes,Approved,16645.82
+CLM-00214,Employer Sponsored,Therapy,Cardiology,Yes,Clinic,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,3076.52
+CLM-00215,Private,Emergency,Neurology,No,Clinic,Emergency,Electronic,Professional,Out-of-Network,Yes,Denied,8133.98
+CLM-00216,Private,Laboratory,General,No,Clinic,Inpatient,Paper,Institutional,Out-of-Network,Yes,Denied,10269.19
+CLM-00217,Government,Consultation,Orthopedic,No,Hospital,Emergency,Paper,Professional,In-Network,Yes,Approved,2924.98
+CLM-00218,Employer Sponsored,Therapy,Orthopedic,No,Clinic,Outpatient,Electronic,Professional,In-Network,No,Approved,6712.88
+CLM-00219,Government,Imaging,Orthopedic,Yes,Hospital,Outpatient,Paper,Institutional,In-Network,Yes,Approved,6602.33
+CLM-00220,Private,Emergency,General,No,Clinic,Inpatient,Paper,Institutional,Out-of-Network,Yes,Denied,16754.4
+CLM-00221,Private,Emergency,General,Yes,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,No,Approved,9165.88
+CLM-00222,Private,Surgery,Neurology,No,Clinic,Outpatient,Paper,Professional,Out-of-Network,No,Denied,13360.36
+CLM-00223,Government,Emergency,General,Yes,Clinic,Inpatient,Electronic,Institutional,In-Network,No,Approved,15583.31
+CLM-00224,Government,Laboratory,Neurology,No,Clinic,Emergency,Electronic,Institutional,Out-of-Network,Yes,Denied,5870.69
+CLM-00225,Government,Laboratory,Respiratory,No,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,No,Denied,2182.24
+CLM-00226,Employer Sponsored,Surgery,General,Yes,Specialist Center,Emergency,Electronic,Institutional,In-Network,No,Approved,15393.05
+CLM-00227,Private,Consultation,Gastroenterology,No,Hospital,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,14615.85
+CLM-00228,Private,Consultation,General,No,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,14245.29
+CLM-00229,Employer Sponsored,Therapy,Respiratory,Yes,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,No,Denied,279.24
+CLM-00230,Government,Surgery,General,Yes,Clinic,Outpatient,Paper,Institutional,In-Network,No,Approved,8975.23
+CLM-00231,Government,Consultation,Cardiology,Yes,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,No,Denied,9681.33
+CLM-00232,Government,Consultation,Cardiology,No,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Denied,15004.57
+CLM-00233,Private,Imaging,Respiratory,Yes,Specialist Center,Inpatient,Electronic,Professional,In-Network,No,Approved,7936.59
+CLM-00234,Government,Surgery,Neurology,Yes,Hospital,Emergency,Paper,Institutional,In-Network,Yes,Approved,10990.42
+CLM-00235,Government,Imaging,Gastroenterology,Yes,Hospital,Outpatient,Electronic,Professional,In-Network,No,Approved,3714.12
+CLM-00236,Private,Laboratory,Gastroenterology,No,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,6566.8
+CLM-00237,Government,Emergency,Orthopedic,No,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,Yes,Denied,5708.57
+CLM-00238,Private,Laboratory,Gastroenterology,Yes,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,No,Denied,9047.03
+CLM-00239,Employer Sponsored,Therapy,Gastroenterology,Yes,Specialist Center,Inpatient,Paper,Institutional,In-Network,Yes,Approved,15590.16
+CLM-00240,Employer Sponsored,Imaging,Respiratory,Yes,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,No,Approved,7738.83
+CLM-00241,Government,Consultation,Orthopedic,Yes,Specialist Center,Inpatient,Electronic,Institutional,In-Network,No,Approved,9985.06
+CLM-00242,Private,Consultation,General,No,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,No,Approved,15233.38
+CLM-00243,Private,Therapy,Neurology,Yes,Clinic,Inpatient,Electronic,Institutional,In-Network,No,Approved,6504.05
+CLM-00244,Private,Consultation,Cardiology,Yes,Hospital,Emergency,Paper,Institutional,In-Network,Yes,Approved,15066.15
+CLM-00245,Private,Emergency,Respiratory,No,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,5008.12
+CLM-00246,Employer Sponsored,Therapy,Cardiology,Yes,Clinic,Inpatient,Paper,Professional,In-Network,Yes,Approved,13185.34
+CLM-00247,Private,Therapy,Neurology,No,Hospital,Emergency,Paper,Institutional,Out-of-Network,No,Denied,11753.26
+CLM-00248,Private,Consultation,General,No,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,Yes,Denied,13545.11
+CLM-00249,Government,Therapy,Gastroenterology,No,Hospital,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,5030.11
+CLM-00250,Government,Laboratory,General,Yes,Specialist Center,Outpatient,Paper,Professional,In-Network,Yes,Approved,384.82
+CLM-00251,Private,Consultation,Neurology,Yes,Clinic,Inpatient,Electronic,Institutional,In-Network,No,Approved,12139.24
+CLM-00252,Government,Imaging,Respiratory,Yes,Hospital,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,105.0
+CLM-00253,Government,Imaging,Orthopedic,Yes,Specialist Center,Emergency,Paper,Professional,In-Network,No,Approved,18281.87
+CLM-00254,Government,Therapy,Orthopedic,No,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Approved,6853.65
+CLM-00255,Government,Surgery,Neurology,Yes,Specialist Center,Emergency,Electronic,Professional,In-Network,Yes,Approved,6552.12
+CLM-00256,Private,Therapy,Gastroenterology,Yes,Clinic,Emergency,Paper,Professional,In-Network,Yes,Approved,13941.29
+CLM-00257,Employer Sponsored,Therapy,Neurology,No,Clinic,Outpatient,Electronic,Professional,Out-of-Network,Yes,Denied,10275.8
+CLM-00258,Employer Sponsored,Therapy,General,No,Specialist Center,Inpatient,Paper,Professional,In-Network,No,Denied,11984.22
+CLM-00259,Private,Consultation,Neurology,Yes,Hospital,Outpatient,Electronic,Professional,Out-of-Network,No,Approved,7208.63
+CLM-00260,Employer Sponsored,Consultation,Respiratory,Yes,Clinic,Inpatient,Electronic,Professional,In-Network,No,Approved,818.41
+CLM-00261,Private,Consultation,General,No,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,9985.92
+CLM-00262,Private,Laboratory,Cardiology,No,Hospital,Emergency,Electronic,Professional,Out-of-Network,No,Approved,11765.53
+CLM-00263,Employer Sponsored,Therapy,Gastroenterology,Yes,Clinic,Emergency,Paper,Professional,In-Network,Yes,Approved,17112.02
+CLM-00264,Private,Consultation,General,Yes,Clinic,Emergency,Electronic,Professional,In-Network,Yes,Approved,3101.98
+CLM-00265,Government,Emergency,General,No,Hospital,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,14947.89
+CLM-00266,Government,Emergency,Cardiology,No,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,No,Denied,9285.32
+CLM-00267,Employer Sponsored,Surgery,Respiratory,Yes,Clinic,Inpatient,Electronic,Professional,In-Network,Yes,Approved,4588.41
+CLM-00268,Government,Laboratory,Neurology,Yes,Hospital,Inpatient,Paper,Professional,Out-of-Network,Yes,Approved,16950.47
+CLM-00269,Government,Laboratory,Cardiology,No,Hospital,Emergency,Electronic,Professional,In-Network,Yes,Approved,1354.28
+CLM-00270,Government,Laboratory,Respiratory,No,Hospital,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,10467.5
+CLM-00271,Government,Therapy,General,Yes,Clinic,Outpatient,Paper,Professional,In-Network,Yes,Approved,17255.1
+CLM-00272,Private,Surgery,General,No,Specialist Center,Emergency,Electronic,Institutional,In-Network,No,Approved,1999.22
+CLM-00273,Employer Sponsored,Surgery,Neurology,No,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Approved,7691.44
+CLM-00274,Government,Consultation,Gastroenterology,Yes,Specialist Center,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,12283.9
+CLM-00275,Private,Surgery,Respiratory,No,Clinic,Outpatient,Paper,Institutional,Out-of-Network,No,Denied,1460.37
+CLM-00276,Private,Surgery,General,Yes,Hospital,Inpatient,Electronic,Institutional,Out-of-Network,No,Approved,2308.37
+CLM-00277,Government,Surgery,Neurology,No,Clinic,Outpatient,Electronic,Professional,In-Network,No,Approved,827.67
+CLM-00278,Government,Surgery,Cardiology,Yes,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,17617.86
+CLM-00279,Government,Emergency,Gastroenterology,Yes,Hospital,Outpatient,Electronic,Professional,In-Network,Yes,Approved,15376.31
+CLM-00280,Private,Surgery,Orthopedic,No,Clinic,Emergency,Electronic,Institutional,In-Network,Yes,Denied,3726.57
+CLM-00281,Employer Sponsored,Consultation,Orthopedic,Yes,Clinic,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,8061.57
+CLM-00282,Employer Sponsored,Consultation,Neurology,Yes,Clinic,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,5148.79
+CLM-00283,Government,Surgery,Cardiology,Yes,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,Yes,Denied,5237.07
+CLM-00284,Private,Consultation,Orthopedic,Yes,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,14475.13
+CLM-00285,Government,Emergency,General,No,Clinic,Outpatient,Electronic,Professional,Out-of-Network,Yes,Denied,16580.51
+CLM-00286,Government,Imaging,Neurology,No,Specialist Center,Inpatient,Electronic,Professional,In-Network,Yes,Approved,9912.89
+CLM-00287,Employer Sponsored,Imaging,Orthopedic,No,Clinic,Inpatient,Electronic,Professional,Out-of-Network,No,Approved,604.42
+CLM-00288,Employer Sponsored,Laboratory,General,Yes,Specialist Center,Inpatient,Paper,Institutional,In-Network,No,Approved,1747.09
+CLM-00289,Private,Emergency,Orthopedic,Yes,Specialist Center,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,13287.41
+CLM-00290,Government,Imaging,Cardiology,Yes,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,Yes,Approved,13059.07
+CLM-00291,Employer Sponsored,Consultation,General,Yes,Clinic,Outpatient,Paper,Professional,In-Network,No,Approved,12039.65
+CLM-00292,Private,Therapy,General,No,Hospital,Emergency,Electronic,Institutional,Out-of-Network,No,Denied,3357.5
+CLM-00293,Private,Therapy,General,No,Specialist Center,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,2674.95
+CLM-00294,Employer Sponsored,Imaging,Orthopedic,No,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,3946.34
+CLM-00295,Employer Sponsored,Imaging,Respiratory,No,Hospital,Emergency,Electronic,Professional,Out-of-Network,No,Approved,17931.01
+CLM-00296,Government,Consultation,Neurology,No,Specialist Center,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,1442.36
+CLM-00297,Private,Laboratory,Cardiology,No,Clinic,Inpatient,Electronic,Institutional,In-Network,No,Denied,13564.51
+CLM-00298,Employer Sponsored,Imaging,Respiratory,No,Specialist Center,Inpatient,Paper,Professional,Out-of-Network,Yes,Denied,1949.66
+CLM-00299,Private,Surgery,Neurology,No,Specialist Center,Outpatient,Paper,Professional,In-Network,Yes,Approved,10614.14
+CLM-00300,Government,Surgery,Cardiology,No,Hospital,Outpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,558.92
+CLM-00301,Private,Therapy,Respiratory,Yes,Clinic,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,1763.29
+CLM-00302,Employer Sponsored,Consultation,Orthopedic,No,Clinic,Outpatient,Electronic,Institutional,In-Network,No,Approved,8649.04
+CLM-00303,Private,Laboratory,General,Yes,Hospital,Emergency,Electronic,Professional,Out-of-Network,No,Approved,4274.65
+CLM-00304,Private,Consultation,General,No,Specialist Center,Emergency,Paper,Professional,Out-of-Network,No,Denied,7355.32
+CLM-00305,Employer Sponsored,Imaging,General,Yes,Hospital,Outpatient,Electronic,Professional,In-Network,Yes,Approved,870.88
+CLM-00306,Private,Therapy,Neurology,Yes,Specialist Center,Inpatient,Paper,Institutional,In-Network,Yes,Approved,10330.45
+CLM-00307,Employer Sponsored,Laboratory,Respiratory,No,Hospital,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,10518.83
+CLM-00308,Employer Sponsored,Imaging,Cardiology,Yes,Clinic,Emergency,Paper,Institutional,Out-of-Network,No,Approved,10618.81
+CLM-00309,Government,Imaging,Orthopedic,No,Clinic,Inpatient,Paper,Professional,Out-of-Network,No,Denied,992.69
+CLM-00310,Government,Laboratory,Respiratory,Yes,Clinic,Outpatient,Paper,Institutional,Out-of-Network,Yes,Denied,2559.71
+CLM-00311,Employer Sponsored,Consultation,Respiratory,No,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,Yes,Denied,13729.5
+CLM-00312,Employer Sponsored,Laboratory,Cardiology,Yes,Hospital,Outpatient,Paper,Professional,In-Network,Yes,Approved,16201.45
+CLM-00313,Private,Imaging,Orthopedic,Yes,Clinic,Inpatient,Paper,Professional,Out-of-Network,No,Approved,9386.9
+CLM-00314,Employer Sponsored,Imaging,Gastroenterology,Yes,Hospital,Outpatient,Paper,Institutional,In-Network,No,Approved,10237.81
+CLM-00315,Government,Surgery,Respiratory,Yes,Clinic,Inpatient,Paper,Professional,In-Network,Yes,Approved,12006.5
+CLM-00316,Employer Sponsored,Surgery,Respiratory,No,Specialist Center,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,14832.93
+CLM-00317,Private,Laboratory,General,No,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,No,Denied,4725.56
+CLM-00318,Government,Laboratory,Gastroenterology,No,Specialist Center,Inpatient,Electronic,Institutional,Out-of-Network,No,Denied,8956.21
+CLM-00319,Government,Laboratory,Gastroenterology,No,Clinic,Outpatient,Paper,Professional,In-Network,Yes,Denied,14916.99
+CLM-00320,Employer Sponsored,Consultation,Gastroenterology,No,Specialist Center,Inpatient,Electronic,Institutional,Out-of-Network,No,Denied,7535.69
+CLM-00321,Employer Sponsored,Imaging,General,Yes,Clinic,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,15565.36
+CLM-00322,Employer Sponsored,Surgery,Respiratory,Yes,Clinic,Inpatient,Paper,Professional,Out-of-Network,Yes,Denied,6627.54
+CLM-00323,Employer Sponsored,Laboratory,Neurology,No,Clinic,Outpatient,Paper,Institutional,In-Network,No,Denied,16039.63
+CLM-00324,Employer Sponsored,Emergency,General,Yes,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,No,Denied,16121.69
+CLM-00325,Private,Surgery,Orthopedic,No,Clinic,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,9063.8
+CLM-00326,Employer Sponsored,Surgery,Respiratory,Yes,Hospital,Outpatient,Paper,Professional,In-Network,Yes,Approved,14544.66
+CLM-00327,Private,Surgery,General,No,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,No,Denied,779.71
+CLM-00328,Private,Therapy,Respiratory,Yes,Clinic,Emergency,Electronic,Professional,In-Network,Yes,Approved,12856.26
+CLM-00329,Government,Laboratory,Orthopedic,Yes,Clinic,Emergency,Paper,Professional,In-Network,Yes,Approved,17550.95
+CLM-00330,Government,Therapy,General,No,Clinic,Emergency,Electronic,Institutional,Out-of-Network,No,Denied,3121.33
+CLM-00331,Government,Imaging,Orthopedic,Yes,Specialist Center,Inpatient,Electronic,Professional,In-Network,Yes,Approved,13180.09
+CLM-00332,Private,Consultation,Gastroenterology,No,Specialist Center,Emergency,Electronic,Professional,In-Network,Yes,Denied,12786.74
+CLM-00333,Government,Consultation,Neurology,Yes,Specialist Center,Outpatient,Paper,Professional,In-Network,Yes,Approved,7835.35
+CLM-00334,Private,Therapy,General,No,Specialist Center,Emergency,Electronic,Institutional,In-Network,Yes,Approved,2184.54
+CLM-00335,Private,Consultation,Orthopedic,Yes,Clinic,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,810.66
+CLM-00336,Government,Surgery,Gastroenterology,No,Clinic,Inpatient,Electronic,Professional,In-Network,Yes,Approved,12405.04
+CLM-00337,Private,Imaging,General,Yes,Specialist Center,Emergency,Electronic,Institutional,In-Network,No,Approved,4948.86
+CLM-00338,Private,Imaging,Orthopedic,Yes,Clinic,Outpatient,Paper,Institutional,In-Network,Yes,Approved,263.12
+CLM-00339,Private,Therapy,Gastroenterology,Yes,Clinic,Outpatient,Paper,Institutional,In-Network,No,Approved,3452.54
+CLM-00340,Government,Consultation,Neurology,No,Clinic,Emergency,Paper,Institutional,In-Network,Yes,Denied,12904.97
+CLM-00341,Private,Surgery,Cardiology,No,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,No,Denied,615.65
+CLM-00342,Employer Sponsored,Therapy,Orthopedic,No,Clinic,Inpatient,Paper,Institutional,In-Network,Yes,Denied,12146.34
+CLM-00343,Private,Therapy,Gastroenterology,Yes,Specialist Center,Outpatient,Electronic,Institutional,In-Network,No,Approved,12307.23
+CLM-00344,Employer Sponsored,Consultation,Orthopedic,Yes,Hospital,Emergency,Electronic,Institutional,Out-of-Network,Yes,Approved,13922.58
+CLM-00345,Government,Surgery,Respiratory,No,Hospital,Emergency,Electronic,Institutional,Out-of-Network,Yes,Denied,8539.23
+CLM-00346,Employer Sponsored,Consultation,Cardiology,No,Clinic,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,7678.21
+CLM-00347,Employer Sponsored,Emergency,Cardiology,Yes,Specialist Center,Emergency,Paper,Professional,Out-of-Network,No,Approved,15283.1
+CLM-00348,Private,Consultation,Respiratory,No,Specialist Center,Emergency,Paper,Institutional,In-Network,Yes,Denied,125.46
+CLM-00349,Government,Therapy,Respiratory,No,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,Yes,Denied,2054.7
+CLM-00350,Employer Sponsored,Surgery,Orthopedic,Yes,Clinic,Inpatient,Paper,Professional,Out-of-Network,Yes,Approved,941.3
+CLM-00351,Employer Sponsored,Therapy,General,Yes,Clinic,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,17308.7
+CLM-00352,Employer Sponsored,Consultation,General,Yes,Specialist Center,Emergency,Electronic,Professional,In-Network,No,Approved,11247.45
+CLM-00353,Government,Emergency,Neurology,No,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,No,Denied,8424.15
+CLM-00354,Private,Surgery,Neurology,No,Specialist Center,Emergency,Paper,Professional,In-Network,Yes,Approved,13240.39
+CLM-00355,Employer Sponsored,Laboratory,Gastroenterology,Yes,Specialist Center,Emergency,Electronic,Institutional,In-Network,No,Approved,8931.01
+CLM-00356,Employer Sponsored,Therapy,Gastroenterology,No,Specialist Center,Emergency,Paper,Institutional,In-Network,Yes,Denied,7098.73
+CLM-00357,Private,Therapy,Cardiology,Yes,Clinic,Inpatient,Paper,Institutional,In-Network,Yes,Approved,3841.68
+CLM-00358,Employer Sponsored,Imaging,Respiratory,No,Hospital,Emergency,Electronic,Institutional,In-Network,No,Denied,17146.22
+CLM-00359,Government,Consultation,Gastroenterology,No,Specialist Center,Inpatient,Electronic,Institutional,In-Network,No,Denied,16870.02
+CLM-00360,Employer Sponsored,Therapy,Gastroenterology,No,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,No,Denied,18195.29
+CLM-00361,Private,Surgery,Orthopedic,Yes,Clinic,Inpatient,Paper,Institutional,Out-of-Network,Yes,Denied,10839.1
+CLM-00362,Government,Imaging,Respiratory,No,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,15611.42
+CLM-00363,Government,Consultation,General,No,Hospital,Emergency,Paper,Professional,In-Network,Yes,Approved,3019.81
+CLM-00364,Employer Sponsored,Emergency,Neurology,Yes,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,No,Approved,4107.67
+CLM-00365,Employer Sponsored,Emergency,Neurology,Yes,Hospital,Emergency,Paper,Institutional,In-Network,Yes,Approved,12654.18
+CLM-00366,Government,Consultation,Cardiology,No,Clinic,Emergency,Paper,Professional,Out-of-Network,No,Denied,892.53
+CLM-00367,Employer Sponsored,Surgery,Respiratory,Yes,Hospital,Inpatient,Electronic,Professional,In-Network,Yes,Approved,15473.77
+CLM-00368,Private,Emergency,Gastroenterology,No,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,No,Denied,1696.7
+CLM-00369,Private,Surgery,Respiratory,Yes,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,8059.16
+CLM-00370,Private,Consultation,Gastroenterology,Yes,Specialist Center,Inpatient,Electronic,Professional,In-Network,No,Approved,2039.49
+CLM-00371,Employer Sponsored,Laboratory,General,Yes,Clinic,Outpatient,Paper,Institutional,In-Network,No,Approved,9908.81
+CLM-00372,Private,Therapy,Neurology,No,Specialist Center,Inpatient,Paper,Institutional,In-Network,Yes,Denied,854.25
+CLM-00373,Employer Sponsored,Emergency,Neurology,Yes,Clinic,Inpatient,Paper,Professional,Out-of-Network,Yes,Denied,3473.23
+CLM-00374,Employer Sponsored,Laboratory,Orthopedic,Yes,Hospital,Emergency,Electronic,Institutional,In-Network,No,Approved,4701.41
+CLM-00375,Private,Therapy,General,No,Clinic,Outpatient,Electronic,Professional,In-Network,No,Approved,1370.53
+CLM-00376,Private,Laboratory,Neurology,No,Clinic,Emergency,Paper,Professional,Out-of-Network,No,Denied,3190.5
+CLM-00377,Government,Surgery,Orthopedic,No,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,No,Denied,6691.23
+CLM-00378,Government,Consultation,General,Yes,Hospital,Emergency,Electronic,Institutional,In-Network,Yes,Approved,13593.22
+CLM-00379,Employer Sponsored,Imaging,Gastroenterology,Yes,Hospital,Emergency,Electronic,Institutional,In-Network,Yes,Approved,4884.25
+CLM-00380,Employer Sponsored,Consultation,Gastroenterology,Yes,Clinic,Outpatient,Electronic,Institutional,In-Network,No,Approved,9484.24
+CLM-00381,Government,Laboratory,General,Yes,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,10514.47
+CLM-00382,Employer Sponsored,Therapy,Orthopedic,No,Clinic,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,6888.15
+CLM-00383,Private,Therapy,Orthopedic,No,Clinic,Outpatient,Paper,Professional,In-Network,No,Denied,13044.3
+CLM-00384,Employer Sponsored,Therapy,Respiratory,No,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,12116.19
+CLM-00385,Private,Emergency,Respiratory,No,Hospital,Emergency,Paper,Institutional,Out-of-Network,No,Denied,16422.27
+CLM-00386,Private,Emergency,Orthopedic,No,Hospital,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,2982.74
+CLM-00387,Employer Sponsored,Therapy,Cardiology,Yes,Clinic,Outpatient,Electronic,Institutional,Out-of-Network,No,Approved,10964.41
+CLM-00388,Employer Sponsored,Consultation,Cardiology,Yes,Hospital,Inpatient,Electronic,Professional,In-Network,Yes,Approved,3148.18
+CLM-00389,Private,Emergency,Neurology,Yes,Specialist Center,Emergency,Paper,Professional,In-Network,No,Approved,18366.97
+CLM-00390,Government,Surgery,Orthopedic,No,Specialist Center,Inpatient,Electronic,Institutional,In-Network,No,Approved,11070.16
+CLM-00391,Private,Surgery,Neurology,No,Hospital,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,1858.34
+CLM-00392,Government,Emergency,General,Yes,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,Yes,Approved,10015.95
+CLM-00393,Private,Therapy,Gastroenterology,No,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,14624.67
+CLM-00394,Government,Laboratory,General,Yes,Clinic,Inpatient,Paper,Institutional,In-Network,Yes,Approved,11102.55
+CLM-00395,Employer Sponsored,Consultation,Respiratory,Yes,Hospital,Emergency,Electronic,Professional,In-Network,No,Approved,12750.22
+CLM-00396,Government,Consultation,Respiratory,Yes,Hospital,Outpatient,Paper,Institutional,Out-of-Network,No,Approved,5159.45
+CLM-00397,Employer Sponsored,Consultation,Orthopedic,No,Specialist Center,Emergency,Paper,Professional,Out-of-Network,No,Denied,18288.38
+CLM-00398,Employer Sponsored,Laboratory,Gastroenterology,No,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,Yes,Denied,4034.25
+CLM-00399,Government,Laboratory,General,Yes,Hospital,Outpatient,Electronic,Professional,In-Network,No,Approved,8102.48
+CLM-00400,Private,Laboratory,Orthopedic,No,Hospital,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,1143.18
+CLM-00401,Private,Therapy,Neurology,No,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Approved,3206.03
+CLM-00402,Private,Laboratory,Orthopedic,Yes,Hospital,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,10877.67
+CLM-00403,Employer Sponsored,Imaging,Gastroenterology,Yes,Hospital,Emergency,Paper,Institutional,Out-of-Network,No,Approved,11251.18
+CLM-00404,Private,Consultation,Neurology,Yes,Clinic,Inpatient,Paper,Professional,In-Network,No,Approved,17524.29
+CLM-00405,Employer Sponsored,Laboratory,General,No,Specialist Center,Outpatient,Paper,Institutional,In-Network,No,Approved,12636.57
+CLM-00406,Employer Sponsored,Imaging,Neurology,Yes,Clinic,Inpatient,Paper,Professional,In-Network,No,Approved,17679.53
+CLM-00407,Employer Sponsored,Emergency,Cardiology,No,Hospital,Outpatient,Electronic,Institutional,Out-of-Network,Yes,Approved,17236.66
+CLM-00408,Government,Laboratory,Respiratory,Yes,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,Yes,Approved,13627.93
+CLM-00409,Government,Surgery,Orthopedic,Yes,Hospital,Emergency,Paper,Professional,In-Network,Yes,Approved,12530.08
+CLM-00410,Employer Sponsored,Consultation,General,Yes,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,16083.38
+CLM-00411,Government,Surgery,General,No,Clinic,Inpatient,Electronic,Professional,Out-of-Network,No,Approved,684.64
+CLM-00412,Government,Consultation,Gastroenterology,Yes,Clinic,Inpatient,Paper,Institutional,In-Network,Yes,Approved,7072.17
+CLM-00413,Private,Laboratory,Respiratory,No,Hospital,Emergency,Paper,Professional,Out-of-Network,No,Approved,6403.12
+CLM-00414,Private,Consultation,Neurology,Yes,Clinic,Emergency,Paper,Institutional,Out-of-Network,No,Approved,3397.66
+CLM-00415,Private,Emergency,Gastroenterology,Yes,Hospital,Emergency,Paper,Professional,Out-of-Network,No,Approved,2770.71
+CLM-00416,Employer Sponsored,Surgery,Neurology,Yes,Hospital,Outpatient,Paper,Professional,Out-of-Network,No,Approved,4706.69
+CLM-00417,Employer Sponsored,Imaging,Neurology,Yes,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,No,Denied,8369.08
+CLM-00418,Government,Laboratory,Respiratory,No,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Denied,6550.33
+CLM-00419,Employer Sponsored,Emergency,Orthopedic,Yes,Clinic,Outpatient,Paper,Institutional,Out-of-Network,Yes,Approved,11385.62
+CLM-00420,Government,Therapy,Orthopedic,Yes,Specialist Center,Outpatient,Paper,Institutional,In-Network,Yes,Approved,6412.86
+CLM-00421,Government,Laboratory,Gastroenterology,No,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,No,Denied,9678.03
+CLM-00422,Government,Consultation,Orthopedic,Yes,Hospital,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,7396.59
+CLM-00423,Private,Imaging,Neurology,Yes,Hospital,Outpatient,Electronic,Professional,Out-of-Network,Yes,Approved,12143.74
+CLM-00424,Government,Laboratory,Orthopedic,Yes,Specialist Center,Outpatient,Paper,Professional,In-Network,Yes,Approved,732.38
+CLM-00425,Government,Laboratory,Neurology,No,Specialist Center,Outpatient,Paper,Professional,In-Network,No,Approved,8095.11
+CLM-00426,Employer Sponsored,Therapy,General,No,Clinic,Outpatient,Electronic,Professional,Out-of-Network,No,Denied,7675.73
+CLM-00427,Private,Laboratory,Cardiology,Yes,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,Yes,Approved,17523.22
+CLM-00428,Government,Laboratory,Cardiology,No,Clinic,Emergency,Electronic,Professional,Out-of-Network,Yes,Denied,16330.01
+CLM-00429,Government,Consultation,Orthopedic,Yes,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Approved,7860.54
+CLM-00430,Private,Emergency,General,No,Clinic,Emergency,Paper,Institutional,In-Network,Yes,Denied,2600.93
+CLM-00431,Private,Therapy,Neurology,No,Clinic,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,998.97
+CLM-00432,Employer Sponsored,Imaging,Orthopedic,Yes,Clinic,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,2859.84
+CLM-00433,Government,Surgery,Respiratory,No,Clinic,Outpatient,Paper,Institutional,In-Network,No,Denied,15618.91
+CLM-00434,Private,Imaging,Respiratory,No,Hospital,Emergency,Paper,Professional,In-Network,No,Approved,15337.26
+CLM-00435,Private,Therapy,Orthopedic,No,Clinic,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,12349.54
+CLM-00436,Private,Consultation,Neurology,No,Clinic,Inpatient,Electronic,Professional,Out-of-Network,No,Denied,3744.5
+CLM-00437,Private,Therapy,Orthopedic,Yes,Hospital,Emergency,Paper,Institutional,In-Network,Yes,Approved,10852.19
+CLM-00438,Government,Surgery,Cardiology,Yes,Specialist Center,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,2989.02
+CLM-00439,Private,Therapy,General,No,Specialist Center,Inpatient,Electronic,Institutional,In-Network,Yes,Denied,9068.63
+CLM-00440,Government,Emergency,Gastroenterology,No,Clinic,Emergency,Electronic,Professional,Out-of-Network,No,Denied,4701.57
+CLM-00441,Private,Consultation,Gastroenterology,No,Specialist Center,Outpatient,Paper,Professional,In-Network,No,Denied,13572.19
+CLM-00442,Government,Emergency,General,Yes,Hospital,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,6845.38
+CLM-00443,Private,Therapy,General,No,Specialist Center,Inpatient,Electronic,Institutional,In-Network,No,Denied,12207.4
+CLM-00444,Employer Sponsored,Consultation,Orthopedic,No,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,No,Denied,1857.56
+CLM-00445,Employer Sponsored,Imaging,Cardiology,Yes,Hospital,Inpatient,Electronic,Professional,Out-of-Network,Yes,Approved,670.91
+CLM-00446,Employer Sponsored,Consultation,Gastroenterology,No,Specialist Center,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,13304.12
+CLM-00447,Private,Surgery,Gastroenterology,No,Hospital,Outpatient,Electronic,Institutional,Out-of-Network,No,Denied,15252.39
+CLM-00448,Government,Emergency,Cardiology,Yes,Clinic,Inpatient,Electronic,Professional,In-Network,Yes,Approved,7180.87
+CLM-00449,Private,Emergency,Gastroenterology,Yes,Specialist Center,Emergency,Electronic,Institutional,In-Network,No,Approved,13022.47
+CLM-00450,Government,Imaging,Orthopedic,Yes,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,No,Approved,10214.75
+CLM-00451,Government,Laboratory,Neurology,No,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,No,Denied,17793.82
+CLM-00452,Government,Consultation,Cardiology,Yes,Clinic,Emergency,Electronic,Professional,Out-of-Network,Yes,Approved,18212.62
+CLM-00453,Private,Laboratory,Cardiology,No,Specialist Center,Emergency,Electronic,Professional,In-Network,No,Approved,2959.71
+CLM-00454,Government,Laboratory,General,Yes,Hospital,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,13409.74
+CLM-00455,Government,Surgery,Neurology,Yes,Specialist Center,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,17061.26
+CLM-00456,Government,Laboratory,Neurology,No,Hospital,Inpatient,Electronic,Institutional,In-Network,No,Approved,843.37
+CLM-00457,Employer Sponsored,Emergency,Orthopedic,No,Specialist Center,Emergency,Electronic,Professional,In-Network,No,Approved,13948.55
+CLM-00458,Employer Sponsored,Emergency,Cardiology,Yes,Clinic,Outpatient,Paper,Professional,In-Network,No,Approved,8847.86
+CLM-00459,Employer Sponsored,Imaging,General,No,Clinic,Inpatient,Paper,Institutional,In-Network,Yes,Approved,10384.44
+CLM-00460,Government,Consultation,Gastroenterology,Yes,Specialist Center,Emergency,Electronic,Professional,In-Network,No,Approved,6040.63
+CLM-00461,Employer Sponsored,Imaging,Cardiology,No,Clinic,Outpatient,Paper,Professional,Out-of-Network,No,Denied,12154.37
+CLM-00462,Government,Surgery,Respiratory,No,Specialist Center,Inpatient,Paper,Professional,In-Network,Yes,Denied,2957.58
+CLM-00463,Employer Sponsored,Imaging,Cardiology,Yes,Hospital,Emergency,Electronic,Institutional,In-Network,No,Approved,5703.75
+CLM-00464,Government,Imaging,Respiratory,Yes,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,No,Approved,13526.54
+CLM-00465,Private,Therapy,Gastroenterology,Yes,Clinic,Emergency,Electronic,Institutional,In-Network,Yes,Approved,3780.82
+CLM-00466,Employer Sponsored,Emergency,Respiratory,Yes,Clinic,Emergency,Electronic,Professional,Out-of-Network,No,Approved,16000.76
+CLM-00467,Private,Laboratory,Gastroenterology,No,Hospital,Outpatient,Electronic,Institutional,Out-of-Network,Yes,Denied,3747.29
+CLM-00468,Government,Emergency,Gastroenterology,Yes,Hospital,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,423.32
+CLM-00469,Employer Sponsored,Laboratory,Respiratory,No,Hospital,Emergency,Paper,Professional,Out-of-Network,No,Denied,17471.28
+CLM-00470,Government,Surgery,Orthopedic,No,Clinic,Emergency,Electronic,Professional,Out-of-Network,Yes,Denied,4511.24
+CLM-00471,Private,Consultation,Respiratory,No,Clinic,Emergency,Electronic,Professional,In-Network,Yes,Denied,5775.21
+CLM-00472,Employer Sponsored,Emergency,Orthopedic,No,Hospital,Emergency,Electronic,Institutional,In-Network,Yes,Approved,5933.56
+CLM-00473,Private,Therapy,Cardiology,No,Clinic,Outpatient,Paper,Institutional,Out-of-Network,Yes,Denied,2051.2
+CLM-00474,Private,Imaging,General,No,Specialist Center,Emergency,Electronic,Professional,In-Network,Yes,Approved,1548.54
+CLM-00475,Government,Surgery,General,No,Specialist Center,Emergency,Paper,Professional,Out-of-Network,No,Denied,2617.3
+CLM-00476,Private,Surgery,Cardiology,No,Hospital,Outpatient,Paper,Professional,In-Network,Yes,Denied,3345.9
+CLM-00477,Government,Emergency,Neurology,No,Clinic,Inpatient,Paper,Institutional,In-Network,No,Denied,7343.29
+CLM-00478,Employer Sponsored,Emergency,General,Yes,Specialist Center,Inpatient,Paper,Institutional,In-Network,Yes,Approved,9989.86
+CLM-00479,Employer Sponsored,Imaging,General,No,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,No,Denied,16371.18
+CLM-00480,Government,Consultation,Orthopedic,No,Clinic,Emergency,Electronic,Professional,Out-of-Network,No,Denied,13392.54
+CLM-00481,Private,Surgery,General,Yes,Clinic,Outpatient,Paper,Institutional,In-Network,Yes,Approved,10955.66
+CLM-00482,Employer Sponsored,Surgery,Neurology,Yes,Clinic,Outpatient,Electronic,Professional,In-Network,Yes,Approved,11761.44
+CLM-00483,Private,Emergency,Gastroenterology,No,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,Yes,Denied,16884.13
+CLM-00484,Employer Sponsored,Therapy,Orthopedic,Yes,Hospital,Inpatient,Electronic,Institutional,Out-of-Network,No,Approved,5402.89
+CLM-00485,Private,Imaging,Orthopedic,Yes,Hospital,Emergency,Paper,Professional,Out-of-Network,No,Approved,10093.57
+CLM-00486,Private,Emergency,Neurology,Yes,Hospital,Emergency,Paper,Institutional,Out-of-Network,No,Denied,11156.4
+CLM-00487,Private,Surgery,General,No,Specialist Center,Emergency,Electronic,Professional,In-Network,Yes,Denied,12115.09
+CLM-00488,Private,Surgery,Cardiology,No,Clinic,Inpatient,Electronic,Professional,Out-of-Network,Yes,Denied,12461.55
+CLM-00489,Employer Sponsored,Therapy,Gastroenterology,Yes,Clinic,Emergency,Paper,Professional,In-Network,No,Approved,6872.21
+CLM-00490,Government,Imaging,Neurology,Yes,Clinic,Outpatient,Electronic,Professional,Out-of-Network,No,Approved,7704.35
+CLM-00491,Private,Therapy,Orthopedic,Yes,Hospital,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,15697.2
+CLM-00492,Government,Emergency,General,No,Hospital,Emergency,Paper,Institutional,Out-of-Network,Yes,Approved,4370.57
+CLM-00493,Government,Surgery,Cardiology,Yes,Hospital,Outpatient,Electronic,Professional,Out-of-Network,No,Approved,6231.78
+CLM-00494,Employer Sponsored,Therapy,Orthopedic,Yes,Specialist Center,Inpatient,Paper,Institutional,In-Network,No,Approved,9415.69
+CLM-00495,Government,Imaging,Cardiology,No,Clinic,Outpatient,Electronic,Professional,In-Network,No,Approved,17068.78
+CLM-00496,Government,Consultation,Cardiology,Yes,Clinic,Inpatient,Paper,Institutional,Out-of-Network,No,Denied,15463.47
+CLM-00497,Government,Emergency,Gastroenterology,No,Specialist Center,Emergency,Electronic,Professional,Out-of-Network,No,Denied,17940.43
+CLM-00498,Government,Imaging,Respiratory,No,Specialist Center,Emergency,Electronic,Institutional,In-Network,Yes,Approved,13072.48
+CLM-00499,Government,Therapy,Cardiology,No,Clinic,Inpatient,Paper,Professional,Out-of-Network,No,Denied,4065.22
+CLM-00500,Government,Surgery,Cardiology,No,Hospital,Inpatient,Electronic,Institutional,In-Network,No,Approved,2922.34
+CLM-00501,Government,Consultation,Gastroenterology,No,Clinic,Inpatient,Electronic,Professional,In-Network,Yes,Approved,7222.44
+CLM-00502,Employer Sponsored,Imaging,Cardiology,No,Hospital,Emergency,Electronic,Institutional,Out-of-Network,Yes,Denied,9671.44
+CLM-00503,Employer Sponsored,Therapy,Respiratory,Yes,Specialist Center,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,5179.5
+CLM-00504,Government,Consultation,Gastroenterology,Yes,Clinic,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,10390.51
+CLM-00505,Private,Surgery,General,No,Specialist Center,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,1396.94
+CLM-00506,Employer Sponsored,Laboratory,General,No,Hospital,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,1075.72
+CLM-00507,Government,Consultation,Orthopedic,No,Specialist Center,Outpatient,Paper,Institutional,In-Network,Yes,Approved,10540.84
+CLM-00508,Private,Therapy,Neurology,Yes,Clinic,Outpatient,Paper,Institutional,In-Network,Yes,Approved,15942.09
+CLM-00509,Employer Sponsored,Laboratory,Respiratory,No,Hospital,Emergency,Paper,Institutional,Out-of-Network,No,Denied,1288.7
+CLM-00510,Private,Laboratory,Neurology,No,Hospital,Outpatient,Paper,Professional,In-Network,No,Denied,6085.89
+CLM-00511,Employer Sponsored,Imaging,Respiratory,No,Clinic,Emergency,Paper,Professional,In-Network,Yes,Approved,7152.98
+CLM-00512,Government,Surgery,Gastroenterology,No,Clinic,Emergency,Paper,Professional,In-Network,Yes,Approved,15493.72
+CLM-00513,Private,Emergency,General,No,Clinic,Emergency,Electronic,Institutional,In-Network,No,Approved,1366.82
+CLM-00514,Private,Therapy,General,No,Clinic,Outpatient,Electronic,Professional,In-Network,Yes,Approved,16718.46
+CLM-00515,Employer Sponsored,Imaging,Orthopedic,Yes,Clinic,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,12635.13
+CLM-00516,Government,Laboratory,General,No,Clinic,Emergency,Paper,Professional,In-Network,No,Denied,15783.88
+CLM-00517,Private,Laboratory,General,Yes,Hospital,Emergency,Paper,Professional,Out-of-Network,Yes,Approved,8035.04
+CLM-00518,Employer Sponsored,Consultation,Gastroenterology,No,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,Yes,Denied,8829.76
+CLM-00519,Private,Emergency,Neurology,No,Clinic,Inpatient,Paper,Professional,In-Network,Yes,Denied,12025.09
+CLM-00520,Private,Therapy,Neurology,No,Hospital,Inpatient,Electronic,Institutional,Out-of-Network,No,Approved,3395.97
+CLM-00521,Employer Sponsored,Consultation,General,No,Clinic,Outpatient,Electronic,Professional,Out-of-Network,Yes,Approved,9258.56
+CLM-00522,Employer Sponsored,Surgery,Gastroenterology,No,Clinic,Emergency,Paper,Professional,In-Network,No,Denied,2168.92
+CLM-00523,Government,Therapy,Cardiology,Yes,Specialist Center,Emergency,Paper,Institutional,In-Network,Yes,Approved,8785.2
+CLM-00524,Employer Sponsored,Therapy,Gastroenterology,Yes,Specialist Center,Emergency,Paper,Professional,Out-of-Network,Yes,Approved,8446.05
+CLM-00525,Government,Emergency,Gastroenterology,No,Clinic,Outpatient,Paper,Institutional,In-Network,Yes,Approved,13885.67
+CLM-00526,Employer Sponsored,Emergency,Respiratory,Yes,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,Yes,Approved,9011.86
+CLM-00527,Private,Emergency,Cardiology,No,Clinic,Inpatient,Paper,Institutional,Out-of-Network,Yes,Denied,11204.37
+CLM-00528,Employer Sponsored,Therapy,Orthopedic,No,Clinic,Inpatient,Paper,Professional,Out-of-Network,Yes,Denied,15959.0
+CLM-00529,Government,Imaging,Orthopedic,Yes,Clinic,Outpatient,Paper,Professional,Out-of-Network,Yes,Denied,10724.4
+CLM-00530,Government,Imaging,Gastroenterology,No,Hospital,Inpatient,Electronic,Institutional,Out-of-Network,No,Denied,8855.44
+CLM-00531,Employer Sponsored,Surgery,Neurology,No,Clinic,Outpatient,Electronic,Institutional,In-Network,No,Approved,7119.61
+CLM-00532,Government,Emergency,Gastroenterology,Yes,Hospital,Emergency,Paper,Institutional,Out-of-Network,No,Approved,5003.42
+CLM-00533,Private,Laboratory,Gastroenterology,No,Clinic,Emergency,Electronic,Professional,Out-of-Network,Yes,Denied,10169.29
+CLM-00534,Employer Sponsored,Imaging,Cardiology,Yes,Clinic,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Approved,4723.67
+CLM-00535,Private,Imaging,General,Yes,Hospital,Emergency,Electronic,Professional,In-Network,Yes,Approved,2477.24
+CLM-00536,Employer Sponsored,Therapy,General,Yes,Hospital,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,11848.14
+CLM-00537,Government,Consultation,Gastroenterology,No,Clinic,Inpatient,Electronic,Institutional,In-Network,No,Approved,6210.84
+CLM-00538,Private,Laboratory,Respiratory,Yes,Clinic,Inpatient,Paper,Professional,Out-of-Network,Yes,Approved,2081.75
+CLM-00539,Employer Sponsored,Consultation,Orthopedic,Yes,Clinic,Emergency,Paper,Professional,In-Network,Yes,Approved,10606.31
+CLM-00540,Government,Consultation,Cardiology,No,Hospital,Emergency,Electronic,Professional,Out-of-Network,No,Denied,12976.52
+CLM-00541,Government,Emergency,Cardiology,No,Clinic,Outpatient,Paper,Professional,In-Network,Yes,Approved,17655.77
+CLM-00542,Government,Imaging,General,No,Clinic,Emergency,Paper,Institutional,In-Network,Yes,Denied,9930.14
+CLM-00543,Government,Imaging,Neurology,No,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,Yes,Denied,12899.67
+CLM-00544,Private,Therapy,Gastroenterology,No,Clinic,Inpatient,Paper,Professional,In-Network,Yes,Denied,552.09
+CLM-00545,Employer Sponsored,Surgery,Neurology,No,Hospital,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,6332.94
+CLM-00546,Government,Therapy,Cardiology,No,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Denied,13628.49
+CLM-00547,Government,Therapy,Cardiology,No,Specialist Center,Inpatient,Electronic,Professional,In-Network,Yes,Denied,16744.36
+CLM-00548,Private,Consultation,General,Yes,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,Yes,Denied,14899.01
+CLM-00549,Government,Laboratory,Gastroenterology,No,Clinic,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,3279.04
+CLM-00550,Private,Imaging,Respiratory,Yes,Clinic,Inpatient,Paper,Professional,Out-of-Network,Yes,Approved,834.47
+CLM-00551,Private,Therapy,General,No,Hospital,Inpatient,Paper,Professional,In-Network,Yes,Denied,17139.81
+CLM-00552,Employer Sponsored,Therapy,General,No,Clinic,Emergency,Paper,Professional,In-Network,Yes,Denied,9717.64
+CLM-00553,Government,Surgery,Orthopedic,Yes,Specialist Center,Inpatient,Paper,Professional,Out-of-Network,No,Approved,169.16
+CLM-00554,Private,Surgery,Cardiology,Yes,Specialist Center,Outpatient,Electronic,Institutional,In-Network,No,Approved,3652.34
+CLM-00555,Private,Therapy,Neurology,No,Hospital,Inpatient,Electronic,Professional,Out-of-Network,No,Denied,8089.48
+CLM-00556,Government,Emergency,Neurology,Yes,Hospital,Emergency,Electronic,Professional,In-Network,Yes,Approved,9566.95
+CLM-00557,Private,Surgery,Gastroenterology,No,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Denied,14429.83
+CLM-00558,Government,Surgery,Cardiology,Yes,Specialist Center,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,10859.47
+CLM-00559,Private,Consultation,Orthopedic,Yes,Specialist Center,Outpatient,Electronic,Institutional,Out-of-Network,Yes,Approved,13340.51
+CLM-00560,Employer Sponsored,Laboratory,Respiratory,Yes,Clinic,Inpatient,Electronic,Professional,Out-of-Network,Yes,Denied,15768.16
+CLM-00561,Government,Consultation,Orthopedic,No,Hospital,Outpatient,Electronic,Professional,In-Network,Yes,Approved,15866.17
+CLM-00562,Government,Surgery,General,No,Clinic,Outpatient,Electronic,Institutional,In-Network,Yes,Approved,8081.69
+CLM-00563,Private,Emergency,Orthopedic,Yes,Clinic,Inpatient,Electronic,Institutional,In-Network,No,Approved,7346.41
+CLM-00564,Employer Sponsored,Imaging,Neurology,No,Hospital,Inpatient,Electronic,Institutional,In-Network,Yes,Approved,5531.98
+CLM-00565,Employer Sponsored,Imaging,Cardiology,No,Specialist Center,Outpatient,Electronic,Institutional,In-Network,No,Approved,14298.34
+CLM-00566,Employer Sponsored,Consultation,Orthopedic,No,Specialist Center,Outpatient,Electronic,Professional,Out-of-Network,No,Approved,687.43
+CLM-00567,Government,Laboratory,Gastroenterology,Yes,Specialist Center,Inpatient,Paper,Professional,Out-of-Network,Yes,Denied,7137.12
+CLM-00568,Government,Emergency,Cardiology,No,Clinic,Inpatient,Electronic,Professional,In-Network,No,Denied,10022.36
+CLM-00569,Employer Sponsored,Consultation,Gastroenterology,Yes,Specialist Center,Inpatient,Paper,Institutional,Out-of-Network,No,Approved,1087.88
+CLM-00570,Government,Laboratory,Neurology,No,Specialist Center,Emergency,Electronic,Institutional,Out-of-Network,No,Approved,6864.41
+CLM-00571,Employer Sponsored,Therapy,Cardiology,Yes,Clinic,Inpatient,Electronic,Institutional,In-Network,No,Approved,2098.96
+CLM-00572,Government,Imaging,Gastroenterology,Yes,Clinic,Inpatient,Electronic,Professional,Out-of-Network,No,Approved,17242.65
+CLM-00573,Government,Laboratory,Neurology,No,Specialist Center,Emergency,Electronic,Institutional,In-Network,Yes,Denied,16139.08
+CLM-00574,Private,Emergency,Gastroenterology,No,Clinic,Emergency,Paper,Institutional,Out-of-Network,No,Denied,5684.68
+CLM-00575,Private,Laboratory,Orthopedic,No,Hospital,Outpatient,Paper,Institutional,In-Network,Yes,Approved,5321.9
+CLM-00576,Private,Emergency,Orthopedic,No,Hospital,Inpatient,Electronic,Professional,In-Network,Yes,Denied,18385.33
+CLM-00577,Employer Sponsored,Surgery,Neurology,No,Clinic,Inpatient,Electronic,Professional,Out-of-Network,No,Denied,6952.23
+CLM-00578,Employer Sponsored,Surgery,General,No,Hospital,Inpatient,Paper,Institutional,In-Network,No,Approved,2958.72
+CLM-00579,Employer Sponsored,Emergency,General,No,Specialist Center,Emergency,Paper,Institutional,Out-of-Network,Yes,Denied,13501.13
+CLM-00580,Government,Laboratory,Gastroenterology,Yes,Specialist Center,Outpatient,Electronic,Professional,In-Network,No,Approved,7481.02
+CLM-00581,Private,Consultation,Respiratory,Yes,Clinic,Inpatient,Electronic,Professional,Out-of-Network,Yes,Denied,1624.3
+CLM-00582,Government,Therapy,Gastroenterology,Yes,Specialist Center,Outpatient,Electronic,Institutional,Out-of-Network,Yes,Approved,7406.03
+CLM-00583,Employer Sponsored,Consultation,Respiratory,No,Clinic,Inpatient,Paper,Institutional,Out-of-Network,No,Denied,16185.27
+CLM-00584,Private,Surgery,Gastroenterology,No,Specialist Center,Outpatient,Paper,Institutional,In-Network,No,Approved,2655.14
+CLM-00585,Employer Sponsored,Emergency,Cardiology,Yes,Hospital,Outpatient,Paper,Institutional,In-Network,No,Approved,206.89
+CLM-00586,Employer Sponsored,Laboratory,Neurology,Yes,Specialist Center,Outpatient,Electronic,Professional,In-Network,No,Approved,10284.46
+CLM-00587,Private,Laboratory,General,No,Clinic,Emergency,Paper,Professional,In-Network,Yes,Denied,4922.2
+CLM-00588,Employer Sponsored,Therapy,Neurology,Yes,Specialist Center,Emergency,Paper,Institutional,In-Network,No,Approved,608.77
+CLM-00589,Government,Consultation,Cardiology,No,Specialist Center,Outpatient,Paper,Institutional,Out-of-Network,Yes,Denied,9523.16
+CLM-00590,Employer Sponsored,Imaging,Respiratory,Yes,Specialist Center,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Approved,3092.33
+CLM-00591,Government,Laboratory,Neurology,No,Hospital,Outpatient,Paper,Professional,In-Network,Yes,Denied,11111.21
+CLM-00592,Private,Emergency,Respiratory,No,Specialist Center,Outpatient,Paper,Institutional,In-Network,No,Denied,322.51
+CLM-00593,Employer Sponsored,Laboratory,Respiratory,No,Clinic,Outpatient,Electronic,Professional,In-Network,Yes,Approved,4156.81
+CLM-00594,Private,Emergency,General,Yes,Clinic,Outpatient,Electronic,Professional,In-Network,Yes,Approved,6497.29
+CLM-00595,Employer Sponsored,Laboratory,Orthopedic,No,Specialist Center,Emergency,Paper,Professional,Out-of-Network,Yes,Denied,4179.72
+CLM-00596,Employer Sponsored,Surgery,Gastroenterology,Yes,Clinic,Inpatient,Electronic,Professional,In-Network,No,Approved,1516.5
+CLM-00597,Government,Consultation,Cardiology,Yes,Hospital,Inpatient,Electronic,Institutional,In-Network,No,Approved,1304.95
+CLM-00598,Employer Sponsored,Imaging,Cardiology,Yes,Specialist Center,Inpatient,Electronic,Professional,Out-of-Network,Yes,Denied,2765.43
+CLM-00599,Employer Sponsored,Laboratory,General,No,Clinic,Inpatient,Electronic,Professional,In-Network,Yes,Approved,4081.02
+CLM-00600,Private,Laboratory,Orthopedic,Yes,Specialist Center,Inpatient,Electronic,Institutional,Out-of-Network,Yes,Approved,12487.98
